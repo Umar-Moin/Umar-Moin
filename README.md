@@ -1,7 +1,7 @@
-## Hi 👋 | I'm Umar Moin |
+## Hi | I'm Umar Moin |
 
 
-# 💫 About Me:
+#  About Me:
 🔭 Currently working on : DocuMind AI (RAG + FAISS + FastAPI) <br>🤝 Looking to collaborate on : LLM apps, RAG pipelines & AI-powered web tools<br>🌱 Currently learning : LangChain, Agentic AI & Vector Databases<br>💬 Ask me about : RAG pipelines, Semantic Search, FastAPI & Prompt Engineering<br>⚡ Fun fact : Still a student but already shipped 2 real AI products
 
 
